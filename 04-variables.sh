@@ -1,0 +1,10 @@
+#!/bin/bash
+
+PERSON1=$1
+PERSON2=$2
+
+echo "$PERSON:: Welcome to Alaska $PERSON2"
+echo "$PERSON2:: Thank you $PERSON1, Finally not on oom Webinar"
+echo "$PERSON1:: So, do we have a deal"
+echo "$PERSON2:: Yes, If you make Ukraine joins Russia"
+ 
