@@ -9,4 +9,4 @@ echo "SUM IS: ${SUM}"
 
 LEADERS=("Modi" "Puttin" "Trudo" "Trump")
 
-echo "All leaders: ${LEADERS[@]}
+echo "All leaders: ${LEADERS[@]}"
