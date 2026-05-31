@@ -12,3 +12,4 @@ LEADERS=("Modi" "Puttin" "Trudo" "Trump")
 echo "All leaders: ${LEADERS[@]}"
 echo "First leader: ${LEADERS[0]}"
 echo "Second Leader: ${LEADERS[2]}"
+echo "First leader: ${LEADERS[1]}"
